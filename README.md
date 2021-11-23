@@ -1,0 +1,2 @@
+# LGX_ABBN30_PCB_COVER
+ Covers for PCB on LGX  with ABBN30
